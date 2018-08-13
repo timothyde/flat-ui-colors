@@ -1,4 +1,4 @@
-# TKFlatColors
+# flat-ui-colors
 
 Simple UIColor class extension for easy access to a nice set of flat UI colors and their darker equivalents.
 
